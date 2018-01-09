@@ -1,1 +1,1 @@
-# curratedJavaPrograms
+# Simple java programs
