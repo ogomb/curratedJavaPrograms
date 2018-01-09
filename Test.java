@@ -1,5 +1,11 @@
 /* Hello world program 
 
+INORDER TO RUN THE FILE ON YOUR COMPUTER RUN THE FOLLOWING CODE:
+JAVAC Test.java   
+the above line will compile this program to bytecode.
+Java Test
+the above line will execute the program NB there is no .class extension.
+
  The name of the file needs to bear the name Test which is the class name, the contents of a class
  are wrapped within two curly braces.
 */
