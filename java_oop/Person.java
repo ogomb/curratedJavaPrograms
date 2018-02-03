@@ -1,4 +1,4 @@
-package java_oop_concepts;
+package java_oop;
 
 /*
  * this is a person representation you can not instantiate this class
