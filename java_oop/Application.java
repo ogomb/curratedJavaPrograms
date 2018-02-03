@@ -1,4 +1,4 @@
-package java_oop_concepts;
+package java_oop;
 
 public class Application {
 
