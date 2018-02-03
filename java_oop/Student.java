@@ -1,4 +1,4 @@
-package java_oop_concepts;
+package java_oop;
 
 /*
  * A student is essentially a person, because it extends that class
