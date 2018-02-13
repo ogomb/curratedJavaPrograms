@@ -9,6 +9,8 @@ import java.io.IOException;
 /*
  * Make sure that the file test.txt exists the contents of it will
  * be copied to copy.txt, if it does not exist it will be created automatically for you.
+ * This file will be created in the folder that you are in while running this program.
+ * The needed file also needs to be in the current working folder.
  */
 
 public class App {
